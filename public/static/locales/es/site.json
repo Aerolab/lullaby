@@ -1,0 +1,75 @@
+{
+  "page_title": "Tratamiento para Tinnitus",
+  "page_description": "Lullaby trata tu Tinnitus de forma fácil y gratuita",
+
+  "heroTitle": "Un tratamiento para <strong>Tinnitus*</strong> pensado para vos",
+  "heroTagline": "Lullaby puede reducir el volumen de tu Tinnitus y mejorar tu calidad de vida con un tratamiento experimental diseñado a tu medida.",
+  "heroPrice": "Es gratis, de código abierto, y <strong>siempre lo va a ser</strong>.",
+
+  "heroStartTreatment": "Empezar tu tratamiento",
+  "heroContinueTreatment": "Continuar tu tratamiento",
+  "heroOr": "o",
+  "heroOrStartTreatment": "empezar un tratamiento nuevo",
+
+  "whatTitle": "¿Qué es el Tinnitus?",
+  "whatIntro": "Tinnitus es una condición que te hace escuchar para siempre un sonido que no existe.",
+  "whatTryOut": "<strong>¡Incluso lo puedes probar ahora!</strong> Sube el volumen en tu dispositivo y aprieta este botón:",
+  "whatOutro": "¿Molesto, no? El Tinnitus es escuchar eso, <em>pero por el resto de tu vida</em>. Como puedes imaginar, puede ser sumamente molesto y, si bien afecta a más de un billón de personas, la mayoría de la información que hay en la web está simplemente mal.",
+  "whatLullaby": "Lullaby ofrece una forma de lidiar con esta condición con tratamientos muy bien investigados, completamente gratis.",
+
+  "whatTryTinnitus": "Probar Tinnitus",
+  "whatStopTinnitus": "POR FAVOR HACE QUE PARE",
+
+  "howTitle": "Un momento... <em>¿Cómo funciona?</em>",
+  "howIntro": "Lullaby combina dos técnicas muy estudiadas para ayudarte a reducir el volumen de tu Tinnitus y el estrés que te ocasiona:",
+
+  "wwnTitle": "Sonido Blanco Recortado",
+  "wwnInfo1": "Permitiendo conseguir <strong>una reducción de volumen entre el 30 y el 80%</strong>, esta es una de las terapias más prometedoras para Tinnitus. La mayoría de pacientes empieza a notar resultados después de sólo un mes de tratamiento.",
+  "wwnInfo2": "Ya que el Tinnitus crónico está causado por neuronas que se comportan de forma errática, este tratamiento funciona usando un generador de ruido blanco creado específicamente para cada paciente, atacando las neuronas enfermas de tu corteza auditiva. Esto entrena a tu cerebro a que deje de prestar atención a esas neuronas y puede <strong>reducir gradualmente el volumen de tu Tinnitus</strong>.",
+
+  "cbtTitle": "Terapia Cognitiva",
+  "cbtInfo1": "Al combinar ruido blanco con instrucciones específicas para el volumen y duración de cada sesión de tratamiento, <strong>Lullaby te ayuda a acostumbrarte a tu Tinnitus</strong>.",
+  "cbtInfo2": "En lugar de tapar el sonido (algo que no funciona a largo plazo) te exponemos progresivamente a ese sonido para que tu cerebro deje de interpretarlo como una amenaza. Esto ayuda a lidiar con el estrés asociado con la condición, y a medida que avanza el tratamiento, lo que quede de Tinnitus debería <strong>volverse tan fácil de ignorar como el ruido de tu heladera</strong>.",
+
+  "resultsTitle": "¿Qué resultados puedo conseguir?",
+  "resultsQuote": "Puedes esperar una <strong>reducción del 20% del volumen</strong> luego de 3 meses, y una <em>reducción del 30-80% a los 12 meses</em>",
+  "resultsIntro": "Los estudios de este tratamiento experimental señalan que los resultados son permanentes desde las primeras 4 semanas de tratamiento. Ten en cuenta que que los resultados pueden variar:",
+
+  "resultsWwnTitle": "Ruido Blanco Recortado",
+  "resultsWwnInfo": "Esto funciona mejor para Tinnitus de tono puro (un tono simple de alta frecuencia) con frecuencias de menos de 10000hz y sin daño auditivo. Por suerte, esto incluye a la vasta mayoría de gente con Tinnitus y puede ayudar a reducir el volumen del sonido que escuchas.",
+
+  "resultsCbtTitle": "Terapia Cognitiva",
+  "resultsCbtInfo": "Aún si la primera parte no funciona, los componentes de este tratamiento que ayudan con el estrés y el insomnio están demostrados y funcionan siempre y cuando sigas las instrucciones. Por ende, si bien puede que no alivie la condición directamente, debería hacer que los síntomas sean más tolerables.",
+
+  "resultsPreCaption": "gráfico de tinnitusjournal.com",
+  "resultsCaption": "Reducción de volumen en dB con Ruido Blanco Recortado (WWN) comparado a otras técnicas",
+
+  "learnTitle": "Quieres saber más?",
+  "learnDescription": "Estas son las fuentes y estudios que utilizamos para desarrollar Lullaby como un tratamiento experimental de Tinnitus",
+
+  "learn_trt_title": "Tinnitus Retraining Therapy",
+  "learn_trt_publisher": "Universidad de Cambridge",
+  "learn_trt_description": "Es uno de los libros de referencia más utilizados en lo que respecta a la habituación al Tinnitus. Esta es la base del componente de la terapia cognitiva del tratamiento, diseñada para lidiar con el estrés, ansiedad e insomnio.",
+
+  "learn_trial_title": "Estudio Clínico sobre Tinnitus",
+  "learn_trial_publisher": "Centro Nacional de Biotecnología",
+  "learn_trial_description": "Encontraron una reducción significativa del volumen de Tinnitus luego de 3 meses, que fue exitosamente mantenida a largo plazo. Estos resultados validan el uso de sonido recortado como un tratamiento prometedor.",
+
+  "learn_wwn_title": "Ruido Blanco Recortado",
+  "learn_wwn_publisher": "Universidad de Parma",
+  "learn_wwn_description": "Este tratamiento logró conseguir una reducción permanente del 75% del volumen en los pacientes luego de un año de tratamiento, y es uno de los principales recursos detrás de la app Lullaby.",
+
+  "learn_variability_title": "Análisis de variabilidad de Tinnitus",
+  "learn_variability_publisher": "ResearchGate",
+  "learn_variability_description": "Descubrieron que la frecuencia del Tinnitus se reduce tras ser tratada con sonido recortado, lo que logra que el Tinnitus sea menos notorio y estresante que en los casos de alta frecuencia.",
+
+  "learn_music_title": "Música Recortada",
+  "learn_music_publisher": "Centro Nacional de Biotecnología",
+  "learn_music_description": "Utilizando música en lugar de ruido blanco, consiguiron una reducción de volumen del 25%. Dado que la música no suele utilizar frecuencias elevadas,  este tratamiento resultaría menos efectivo que el sonido blanco.",
+
+  "learn_music_study_title": "Un estudio sobre música recortada",
+  "learn_music_study_publisher": "PLOS",
+  "learn_music_study_description": "Otro estudio sobre los efectos a corto plazo del tratamiento, al utilizar música recortada consiguieron resultados significativos en pacientes con Tinnitus de menos de 8khz, dentro de los rangos típicos de audición.",
+
+  "footerSignature": "Creado por <1>Aerolab</1> - gratis y open source"
+}

@@ -1,0 +1,139 @@
+{
+  "DiagnosticTitle": "Diagnose your Tinnitus Frequency",
+
+  "WelcomeTitle": "Let's find your Tinnitus Frequency",
+  "WelcomeDuration": "This will take 15min",
+  "WelcomeImportant": "Important!",
+  "WelcomeHeadphones": "Make sure you're in a quiet environment and wearing good quality headphones. You'll need them for the diagnosis.",
+  "WelcomeDisclaimer": "You should check with a doctor beforehand. Lullaby doesn't replace a diagnostic and treatment plan created by a professional.",
+  "WelcomeStart": "Begin diagnosis",
+
+  "DiagnosticQuitConfirm": "Are you sure you want to quit the diagnostic? You'll lose all progress if you do",
+
+  "Done": "Done",
+  "Continue": "Continue",
+  "OK": "OK",
+
+  "PutHeadphonesOn": "Put your headphones on and turn down the volume of your phone to the minimum",
+  "PutHeadphonesOnComputer": "Put your headphones on and turn down the volume of your computer to the minimum",
+
+  "RaiseVolumeNoise": "Raise the volume on your phone until you can comfortably hear the white noise",
+  "RaiseVolumeNoiseComputer": "Raise the volume on your computer until you can comfortably hear the white noise",
+
+  "AdjustVolume": "Adjust the volume slider until the noise matches your Tinnitus' volume",
+
+  "WhichSideLouder": "On which side is your Tinnitus heard louder?",
+  "Left": "Left",
+  "Right": "Right",
+  "BothSimilar": "both sound similar",
+
+  "FindFrequencyIntro": "Now we'll find the frequency of your Tinnitus",
+  "FindFrequencyLeftEar": "You'll hear a few tones in your left ear to find it",
+  "FindFrequencyRightEar": "You'll hear a few tones in your right ear to find it",
+
+  "FrequencyPrompt1": "Does your Tinnitus sound lower or higher than this?",
+  "FrequencyPrompt2": "Let's try another one. Higher or lower? ",
+  "FrequencyPrompt3": "How about this one?",
+  "FrequencyPrompt4": "Alright, and this one?",
+  "FrequencyPrompt5": "We're getting closer...",
+  "FrequencyPrompt6": "One more",
+  "FrequencyPrompt7": "And another one",
+  "FrequencyPrompt8": "We're almost done, we promise",
+  "FrequencyPrompt9": "And this one?",
+  "FrequencyPrompt10": "...and this one?",
+  "FrequencyPrompt11": "This is the last one and we're done.",
+
+  "PlayExample": "Play Example",
+
+  "FrequencyIsLower": "It's lower",
+  "FrequencyIsSimilar": "It's similar",
+  "FrequencyIsHigher": "It's higher",
+
+  "ExactFrequencyIntro": "Now we'll pinpoint the exact frequency of your Tinnitus",
+  "ExactFrequencyPrompt": "Adjust the slider until the tone closely matches your Tinnitus.",
+  "FrequencyFound": "Yes, that's the same tone",
+
+  "OctaveIntro": "Lastly, let's make sure we have the right frequency",
+  "OctavePrompt": "Which of these sounds is closest to your ringing?",
+  "ItsOctave": "It's option",
+  "ChooseOctave": "Try the options",
+
+  "BothEarsPromptLeft": "Do you also hear a ringing on your left ear?",
+  "BothEarsPromptRight": "Do you also hear a ringing on your right ear?",
+
+  "PickBothEars": "Yes, in both ears",
+  "PickLeftEar": "No, just the left side",
+  "PickRightEar": "No, just the right side",
+
+  "ResultsIntro": "Now that we have the ringing figured out, it's time to start treating it",
+  "GetResults": "Get the Results",
+
+  "Analyzing": "Analyzing",
+
+  "DiagnosisTitle": "Your diagnosis",
+  "NoSymptoms": "Since you don't have noticeable symptoms, Lullaby won't be of much use to you. We recommend consulting with a physician if you're still looking for treatment.",
+  "InBothEars": "in both ears",
+  "InRightEar": "in the right ear",
+  "InLeftEar": "in the left ear",
+
+  "EmailPrompt": "Tell us your email and we'll send it to you as a reminder",
+  "email@example.com": "email@example.com",
+
+  "SuccessContinue": "Continue the treatment",
+  "SuccessStart": "Start the treatment",
+
+  "TreatmentTitle": "Tinnitus Treatment for {frequency} hz tone",
+  "TreatmentTitleSimple": "Tinnitus Treatment",
+
+  "TreatmentHeader": "Treatment for {frequency} hz",
+  "TreatmentHeaderEmpty": "Set Up Your Treatment",
+
+  "ReadInstructions": "Read Instructions",
+
+  "ForgotVolume": "Forgot how to set the volume?",
+  "DoTutorial": "Do the Tutorial",
+  "ForgotFrequency": "Don't know your frequency?`",
+  "DoDiagnostic": "Get Diagnosed",
+  "or": "or",
+  "SetFrequency": "Set it manually",
+
+  "TimeLeft": "Time left",
+
+  "Sun": "Sun",
+  "Mon": "Mon",
+  "Tue": "Tue",
+  "Wed": "Web",
+  "Thu": "Thu",
+  "Fri": "Fri",
+  "Sat": "Sat",
+
+  "InstructionsTitle": "Instructions for the Lullaby Tinnitus Treatment",
+  "InstructionsHeader": "Treatment Instructions",
+  "BackToTreatment": "Back to the Treatment",
+
+  "WhatYouNeed": "What you'll need",
+  "NeedHeadphonesTitle": "A pair of headphones",
+  "NeedHeadphonesDescription": "Over ear closed headphones are the best choice if you have them.",
+
+  "NeedDiagnosticTitle": "A diagnostic of your frequency",
+  "NeedDiagnosticDescription1": "Our diagnostic",
+  "NeedDiagnosticDescription2": "will help you get that in just a few minutes.",
+
+  "SetUpTreatmentTitle": "Setting up the treatment",
+  "InstructionVolume": "Set the volume on your device",
+  "InstructionVolumeDescription": "Set your device's volume to a comfortable level. Make sure you don't change it during the day, as that can affect the treatment.",
+  "InstructionVolumeApp": "Set the volume of the treatment",
+  "InstructionVolumeAppDescription": "Make sure the volume is slightly below your Tinnitus' volume. Try to find the a sweet spot where you can only hear your Tinnitus if you are paying attention to it.",
+
+  "HowToUse": "How to use the app",
+  "UseHoursDay": "Use it at least 3 hours a day",
+  "UseHoursDayDescription": "You can split this into multiple sessions. The more you use the treatment, the better it'll work.",
+  "UseDiagnosisWeek": "Do a diagnosis once a week",
+  "UseDiagnosisWeekDescription": "As the treatment progresses, your Tinnitus frequency will change. When that happens, you'll need to find your new frequency for the treatment to keep being effective.",
+  "UseSleeping": "Try using it while you sleep",
+  "UseSleepingDescription": "Not only it'll help you sleep by masking your Tinnitus, but it can also get you a few more hours of treatment. Keep in mind that you need to be wearing earphones for this to be effective.",
+
+  "ErrorTitle": "Oh no!",
+  "ErrorDescription": "The page you're looking for doesn't exist. Here's one that does:",
+  "ErrorBackHome": "What is Lullaby?"
+}

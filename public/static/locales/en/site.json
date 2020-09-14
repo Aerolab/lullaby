@@ -1,0 +1,75 @@
+{
+  "page_title": "A free treatment for Tinnitus",
+  "page_description": "A free treatment for Tinnitus",
+
+  "heroTitle": "A <strong>Tinnitus*</strong> treatment based on actual science",
+  "heroTagline": "Lullaby can lower your Tinnitus' volume and improve your quality of life with an experimental treatment designed specifically for you.",
+  "heroPrice": "It's free and open source, & <strong>always will be</strong>.",
+
+  "heroStartTreatment": "Start your treatment",
+  "heroContinueTreatment": "Continue your treatment",
+  "heroOr": "or",
+  "heroOrStartTreatment": "start a new treatment",
+
+  "whatTitle": "What is Tinnitus?",
+  "whatIntro": "Tinnitus is a condition that causes you to permanently hear a sound that doesn't exist.",
+  "whatTryOut": "<strong>You can actually try it out for yourself!</strong> Raise the volume on your device and press this button:",
+  "whatOutro": "Annoying, isn't it? Tinnitus sounds like that, <em>but for the rest of your life</em>. As you can probably guess, it can be very stressful and, even though it affects more than a billion people, there's a ton of bad information about it.",
+  "whatLullaby": "Lullaby provides a way to deal with this condition by implementing some well researched treatments in one convenient place, completely free.",
+
+  "whatTryTinnitus": "Try Tinnitus",
+  "whatStopTinnitus": "WHAT THE FUCK MAKE IT STOP",
+
+  "howTitle": "Wait... <em>Science</em> you said?",
+  "howIntro": "Lullaby combines two tried-and-tested techniques to help reduce your Tinnitus volume and the stress that comes with it:",
+
+  "wwnTitle": "Notched White Noise",
+  "wwnInfo1": "With a reported <strong>noise reduction ranging between 30 and 80%</strong>, this is one of the most promising therapies around. Patients show noticeable results after just one month of treatment.",
+  "wwnInfo2": "Since long term Tinnitus is caused by misbehaving neurons, this treatment works by creating a track of white noise tailored specifically for you, targeting the broken neurons in your auditory cortex. This trains your brain to stop paying attention to those neurons and <strong>gradually lowers the volume of your Tinnitus</strong>.",
+
+  "cbtTitle": "Cognitive Behavioral Therapy",
+  "cbtInfo1": "By combining white noise with a specific set of instructions for the volume and length of each treatment session, <strong>Lullaby helps you get used to your Tinnitus</strong>.",
+  "cbtInfo2": "Instead of masking the sound (a quick fix that offers no long term solutions) we progressively expose you to that sound so your brain learns to process it as non-threatening. This helps you deal with the stress associated with the condition. As you progress along your treatment, <strong>whatever grade of Tinnitus remains should feel about as noticeable as your fridge</strong>.",
+
+  "resultsTitle": "What results can I expect?",
+  "resultsQuote": "You can expect a <strong>20% reduction in volume</strong> after 3 months and a <em>30-80% reduction after 12 months</em>",
+  "resultsIntro": "Improvements are permanent after doing a full round of treatment, and some people report results as early as 4 weeks into the treatment. Keep in mind that the results of both parts of the treatment might vary:",
+
+  "resultsWwnTitle": "Notched White Noise",
+  "resultsWwnInfo": "This works best for pure tone Tinnitus (ie: a monotone, high pitched sound) with frequencies below 10000hz and mild to no hearing loss. Luckily, this includes the vast majority of people with Tinnitus and will help reduce your Tinnitus' volume.",
+
+  "resultsCbtTitle": "Cognitive Behavioral Therapy",
+  "resultsCbtInfo": "However, even if the first part doesn't work, the components in this treatment that help with stress and insomnia are proven to work as long as you follow the instructions. So while it may not directly alleviate your condition, it should help make the symptoms more manageable.",
+
+  "resultsPreCaption": "graph from tinnitusjournal.com",
+  "resultsCaption": "Noise reduction in dB with Notched White Noise (WWN) compared to other techniques",
+
+  "learnTitle": "Want to learn more?",
+  "learnDescription": "These are the sources we used to develop Lullaby.",
+
+  "learn_trt_title": "Tinnitus Retraining Therapy",
+  "learn_trt_publisher": "Cambridge University",
+  "learn_trt_description": "It's one of the most widely used treatments on the subject on habituation to Tinnitus. This is the basis for the CBT component of the treatment, and is meant to help with stress, anxiety and insomnia.",
+
+  "learn_trial_title": "Clinical Trial on Tonal Tinnitus",
+  "learn_trial_publisher": "National Center for Biotechnology",
+  "learn_trial_description": "They found a noticeable reduction in Tinnitus volume after 3 months, and successfully maintained it over time. These results clinically validate notched sound as the most promising tool for treating Tinnitus.",
+
+  "learn_wwn_title": "Notched White Noise",
+  "learn_wwn_publisher": "University of Parma",
+  "learn_wwn_description": "This treatment achieved a permanent 75% reduction in Tinnitus Volume after a year's treatment, and it's one of the main neuroscientific resources behind this revolutionary treatment.",
+
+  "learn_variability_title": "An analysis of tinnitus variability",
+  "learn_variability_publisher": "ResearchGate",
+  "learn_variability_description": "Discovered that the frequency of Tinnitus goes down when coupled with notched sound, which helps make the Tinnitus less noticeable and stressful than higher pitched sounds.",
+
+  "learn_music_title": "Notched Music",
+  "learn_music_publisher": "National Center for Biotechnology",
+  "learn_music_description": "Using music instead of white noise they achieved a volume reduction of 25%. Since music doesn't tend to consistently hit high frequencies, it seems that using music is less effective than white noise.",
+
+  "learn_music_study_title": "A study on notched music",
+  "learn_music_study_publisher": "PLOS",
+  "learn_music_study_description": "Another study focused on the short-term effects of the treatment, trying out notched music they achieved significant results for patients with Tinnitus below 8khz, well within typical hearing ranges.",
+
+  "footerSignature": "Created by <1>Aerolab</1> - free & open source"
+}
